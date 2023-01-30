@@ -1,5 +1,5 @@
 # WIX TO MONDAY FETCH
-A (very) simple POST to Monday [www.monday.com]((monday.com)) from Wix using 'monday-sdk-js'. This example was used for a client that needed an email added with a label of "Incomplete" and send the client to an external website to complete registration. So that's basically what it does.
+A (very) simple POST to Monday [(monday.com)](www.monday.com)) from Wix using 'monday-sdk-js'. This example was used for a client that needed an email added with a label of "Incomplete" and send the client to an external website to complete registration. So that's basically what it does.
 
 Attach this code to the submit button, change the function to whatever the 'click' name is ('register_click' in this case), and make sure that the correct input name (#formEmail or whatever) is being used for the email or whatever other data you're trying to send.
 
